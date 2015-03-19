@@ -25,3 +25,6 @@ git ci --amend      # 修改最后一次提交记录
 
 git revert <$id>    # 恢复某次提交的状态，恢复动作本身也创建了一次提交对象
 git revert HEAD     # 恢复最后一次提交的状态
+
+
+revert test
