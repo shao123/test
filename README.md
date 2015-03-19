@@ -29,4 +29,3 @@ git revert HEAD     # 恢复最后一次提交的状态
 
 git test after pull reback1
 git test after pull reback1
-git test after pull reback1
